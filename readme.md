@@ -1,4 +1,4 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
+# Live : https://react-api-article-extractor-git-main-ribeirorrays-projects.vercel.app
 ![AI Summarizer](https://content.news.ifood.com.br/uploads/2023/01/capa_aigenerative.jpg)
 
 ## Introduction
