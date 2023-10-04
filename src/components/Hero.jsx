@@ -11,7 +11,8 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/ribeirorray/new_IA_Article", "_blank")
+                       window.open("https://github.com/ribeirorray/React_API_Article_Extractor", "_blank")
+
           }
           className='black_btn'
         >
